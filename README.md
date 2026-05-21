@@ -24,7 +24,7 @@ The full dataset is publicly available at:
 **Dataset Contents**
 
 - `Data_description_dynamic_fracture.pdf` — Documentation of model setup, geometry, and boundary conditions.
-- `simulation_results.zip` — Raw finite-element results for all realizations.
+- `consolidatd_samples.zip` — Raw phase-field fracture results for all realizations.
 
 **Dataset Folder Structure**
 
@@ -70,7 +70,7 @@ Geometry and boundary condition setup for the dynamic fracture simulations. A re
 <p align="center">
   <img
     src="figure/2.png"
-    alt="Geometry and boundary condition setup with crack tip position distributions"
+    alt="(a) Geometry and boundary condition setup for the dynamic fracture simulations. A rectangular plate of dimensions $100~\text{mm} \times 40~\text{mm}$ contains a pre-existing horizontal notch. A uniform tensile traction $\sigma^*$ is applied simultaneously on the top and bottom boundaries. (b,c) Distribution of initial crack tip positions across the crack configurations in the dataset, where $s$ and $r$ show the initial crack length considered and blue dots show the crack tip locations sampled within the plate domain."
     width="600"
   />
 </p>
@@ -101,14 +101,6 @@ Animation of the standard and reverse displacement and phase-field damage profil
   />
 </p>
 
-**Reverse Crack Configuration**
-<p align="center">
-  <img
-    src="figure/Rev_all.gif"
-    alt="Reverse displacement and phase-field evolution"
-    width="800"
-  />
-</p>
 
 ---
 
