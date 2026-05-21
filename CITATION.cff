@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Data and code associated with: Crack paths in functionally graded plates – a phase-field simulation dataset"
+type: dataset
+
+authors:
+  - family-names: "Hakimzadeh"
+    given-names: "Maryam"
+  - family-names: "Krishnan"
+    given-names: "U. Meenu"
+  - family-names: "Brady"
+    given-names: "Lori Graham"
+  - family-names: "Goswami"
+    given-names: "Somdatta"
+
+doi: "10.7281/T1RZFI3I"
+url: "https://doi.org/10.7281/T1RZFI3I"
+repository-code: "https://github.com/Centrum-IntelliPhysics/Benchmark_Data_Phase_field_fracture_in_fgm"
+repository-artifact: "https://github.com/Centrum-IntelliPhysics/Benchmark_Data_Phase_field_fracture_in_fgm"
+
+publisher: "Johns Hopkins Research Data Repository"
+year: 2025
+version: "V1"
+
+abstract: >
+  This repository contains data and code associated with a benchmark dataset
+  for crack path prediction in functionally graded plates using the phase-field
+  fracture method. It is intended to support reproducibility, benchmarking,
+  and future scientific machine learning applications in computational mechanics.
+
+keywords:
+  - phase-field fracture
+  - functionally graded materials
+  - crack propagation
+  - benchmark dataset
+  - computational mechanics
+  - fracture mechanics
+  - scientific machine learning
