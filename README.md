@@ -171,8 +171,7 @@ varying crack configurations and loading},
 
 In case you need more information, please feel free to contact:
 
-- **Dr. U. Meenu Krishnan** — [ukrishn4@jh.edu](mailto:ukrishn4@jh.edu)
-- **Vasudev Chandrababu** — *(Insert email)*
+- **U. Meenu Krishnan** — [ukrishn4@jh.edu](mailto:ukrishn4@jh.edu)
 - **Prof. Somdatta Goswami** — [sgoswam4@jh.edu](mailto:sgoswam4@jh.edu)
 
 ---
