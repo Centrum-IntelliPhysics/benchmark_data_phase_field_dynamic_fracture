@@ -81,7 +81,7 @@ Initial (left column) and final (right column) phase-field crack configurations 
 
 <p align="center">
   <img
-    src="figure/3.png"
+    src="figure/4.png"
     alt="Initial and final phase-field crack configurations for sigma* = 1.0, 1.5, 2.0, 3.0"
     width="600"
   />
