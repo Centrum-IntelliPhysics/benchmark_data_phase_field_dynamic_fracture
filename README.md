@@ -160,8 +160,8 @@ If you use this dataset in your work, please cite it as follows:
 varying crack configurations and loading},
   year      = {2025},
   version   = {V1},
-  doi       = {INSERT DOI HERE},
-  url       = {INSERT URL HERE}
+  doi       = {[https://doi.org/10.7281/T1IDANWZ]}
+  url       = {https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1IDANWZ}
 }
 ```
 
