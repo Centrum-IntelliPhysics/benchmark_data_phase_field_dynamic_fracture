@@ -173,7 +173,7 @@ In case you need more information, please feel free to contact:
 
 - **Dr. U. Meenu Krishnan** — [ukrishn4@jh.edu](mailto:ukrishn4@jh.edu)
 - **Vasudev Chandrababu** — *(Insert email)*
-- **Prof. Somdatta Goswami** — [somdatta@jhu.edu](mailto:somdatta@jhu.edu)
+- **Prof. Somdatta Goswami** — [sgoswam4@jh.edu](mailto:sgoswam4@jh.edu)
 
 ---
 
