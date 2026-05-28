@@ -19,7 +19,7 @@ Each realization stores **displacement and phase-field damage fields** throughou
 
 The full dataset is publicly available at:
 
-➡️ *(Insert DOI / repository link here)*
+➡️  https://doi.org/10.7281/T1IDANWZ
 
 **Dataset Contents**
 
@@ -129,7 +129,7 @@ This dataset provides a foundation for **Scientific Machine Learning (SciML)**, 
 
 ### 3. Hybrid FE–NN Surrogate Models
 
-This dataset enables development of **hybrid finite element–neural network surrogates** that combine physics solvers with learned models.
+This dataset enables the development of **hybrid finite element–neural network surrogates** that combine physics solvers with learned models.
 
 - Replace expensive dynamic FEniCS solvers with fast neural surrogates for real-time or many-query simulations.
 - Train neural models to predict incremental phase-field evolution between time steps.
