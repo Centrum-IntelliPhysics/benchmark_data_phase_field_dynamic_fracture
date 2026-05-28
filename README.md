@@ -65,7 +65,7 @@ Below are representative samples showing the **phase-field damage** evolution an
 
 **Geometry and Boundary Condition Setup**
 
-Geometry and boundary condition setup for the dynamic fracture simulations. A rectangular plate of dimensions 100 mm × 40 mm contains a pre-existing horizontal notch. A uniform tensile traction σ\* is applied simultaneously on the top and bottom boundaries. The distributions of initial crack tip positions across the crack configurations are shown, where *s* and *r* denote the initial crack lengths considered and blue dots show the crack tip locations sampled within the plate domain.
+Geometry and boundary condition setup for the dynamic fracture simulations. A rectangular plate of dimensions 100 mm × 40 mm contains a pre-existing horizontal notch. A uniform tensile traction σ\* is applied simultaneously on the top and bottom boundaries. The distributions of initial crack tip positions across the crack configurations are shown, where *s* and *r* denote the initial crack lengths considered, and blue dots show the crack tip locations sampled within the plate domain.
 
 <p align="center">
   <img
@@ -172,7 +172,7 @@ varying crack configurations and loading},
 In case you need more information, please feel free to contact:
 
 - **U. Meenu Krishnan** — [ukrishn4@jh.edu](mailto:ukrishn4@jh.edu)
-- **Prof. Somdatta Goswami** — [sgoswam4@jh.edu](mailto:sgoswam4@jh.edu)
+- **Prof. Somdatta Goswami** — [somdatta@jh.edu](mailto:somdatta@jh.edu)
 
 ---
 
